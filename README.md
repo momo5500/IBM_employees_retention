@@ -20,11 +20,11 @@ Using real HR data from an organisation, I applied business analytics tools to f
 - Prediction models require balancing techniques due to class imbalance
 
 ## 🚀 Why this project?
-As a Business Analytics MBA student at Loughborough University, I built this mini-project to sharpen my skills, explore HR data, and simulate how real companies could extract value from their workforce data.
+As a Business Analytics MBA student at Université Laval, I built this mini-project to sharpen my skills, explore HR data, and simulate how real companies could extract value from their workforce data.
 
 ## 🔗 Project Notebook
 Click below to open the full analysis notebook:  
-👉 [View the notebook](./HR_Attrition_Analysis.ipynb)
+
 
 ---
 
